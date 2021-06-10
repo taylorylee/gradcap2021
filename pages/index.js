@@ -23,16 +23,16 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://open.spotify.com/playlist/1YYHnjyRwjzfccSkkYtj6D?si=1894d187f2be48a6" className={styles.card}>
             <h2>21 songs for 2021 playlist &rarr;</h2>
-            <p>Get hyped, cry, smile, maybe all of the above at once with this playlist.</p>
+            <p>Get hyped, cry, smile, maybe all of the above at the same time with this playlist.</p>
           </a>
 
           <a href="https://drive.google.com/drive/folders/1O5OrLeUsMUAvTLQEbniEFOimuzn0Fbil?usp=sharing" className={styles.card}>
             <h2>Blast to the past &rarr;</h2>
-            <p>Photos and videos from freshman to senior year.</p>
+            <p>Some photos and videos from freshman to senior year.</p>
           </a>
 
            <a href="https://docs.google.com/document/d/1Swp17znRwFpl8nLgLuvk07obh7GLS6lN2cTyQA0Nz_4/edit?usp=sharing" className={styles.card}>
-            <h2>Thank you to the following... &rarr;</h2>
+            <h2>Thank you to the following people... &rarr;</h2>
             <p>I couldn't have done it without you folks!</p>
           </a>
 
@@ -52,7 +52,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Template by Replit. Taylor Lee. June 9, 2021
+          Taylor Lee. June 9, 2021
         </a>
       </footer>
     </div>
