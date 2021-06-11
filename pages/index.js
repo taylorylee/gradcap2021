@@ -28,7 +28,7 @@ export default function Home() {
 
           <a href="https://open.spotify.com/playlist/1YYHnjyRwjzfccSkkYtj6D?si=1894d187f2be48a6" className={styles.card}>
             <h2>21 songs for 2021 playlist &rarr;</h2>
-            <p>Get hyped, cry, smile, maybe all of the above at the same time with this playlist.</p>
+            <p>Get hyped, cry, smile, maybe all of the above with this playlist.</p>
           </a>
 
           <a href="https://drive.google.com/drive/folders/1O5OrLeUsMUAvTLQEbniEFOimuzn0Fbil?usp=sharing" className={styles.card}>
