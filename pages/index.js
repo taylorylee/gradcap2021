@@ -21,6 +21,11 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
+        <a className={styles.card}>
+            <h2>Where am I headed off to? </h2>
+            <p>Tentatively taking a gap year to work at Google and go off to the University of Auckland in New Zealand studying computer science and psychology!</p>
+          </a>
+
           <a href="https://open.spotify.com/playlist/1YYHnjyRwjzfccSkkYtj6D?si=1894d187f2be48a6" className={styles.card}>
             <h2>21 songs for 2021 playlist &rarr;</h2>
             <p>Get hyped, cry, smile, maybe all of the above at the same time with this playlist.</p>
