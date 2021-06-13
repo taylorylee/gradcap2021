@@ -23,7 +23,7 @@ export default function Home() {
         <div className={styles.grid}>
         <a className={styles.card}>
             <h2>Where am I headed off to? </h2>
-            <p>Tentatively taking a gap year to work at Google and head off to the University of Auckland in New Zealand studying computer science and psychology!</p>
+            <p>Tentatively taking a gap year to work at Google and heading off to the University of Auckland in New Zealand studying computer science and psychology!</p>
           </a>
 
           <a href="https://open.spotify.com/playlist/1YYHnjyRwjzfccSkkYtj6D?si=1894d187f2be48a6" className={styles.card}>
